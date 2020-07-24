@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "尤小浪的小破站",
+  "usingComponents": {
+    "MyTitle": "../../components/MyTitle/MyTitle"
+  }
+}
